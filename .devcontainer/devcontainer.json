@@ -1,0 +1,10 @@
+{
+  "name": "My Web Dev Codespace",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ritwickdey.liveserver", "esbenp.prettier-vscode", "dsznajder.es7-react-js-snippets", "eamodio.gitlens"]
+    }
+  },
+  "forwardPorts": [5500, 3000, 5000]
+}

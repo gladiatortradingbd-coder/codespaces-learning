@@ -1,0 +1,11 @@
+Extensions installed on Codespaces: ubiquitous broccoli:
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+esbenp.prettier-vscode
+github.codespaces
+github.github-vscode-theme
+github.vscode-pull-request-github
+ms-vscode.live-server
+naqvi.es7-react-snippets
+rodrigovallades.es7-react-js-snippets
+vscode-icons-team.vscode-icons
